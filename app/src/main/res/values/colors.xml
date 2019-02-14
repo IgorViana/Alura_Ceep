@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#c66900</color>
+    <color name="colorAccent">#000000</color>
+    <color name="cor_fundo_lista_cores">#eeeeee</color>
+
+    <color name="cor_azul">#408EC9</color>
+    <color name="cor_branco">#FFFFFF</color>
+    <color name="cor_vermelho">#EC2F4B</color>
+    <color name="cor_verde">#9ACD32</color>
+    <color name="cor_amarelo"> #F9F256</color>
+    <color name="cor_lilas">#F1CBFF</color>
+    <color name="cor_cinza">#D2D4DC</color>
+    <color name="cor_marrom"> #A47C48</color>
+    <color name="cor_roxo"> #BE29EC</color>
+
+</resources>
