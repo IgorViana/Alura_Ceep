@@ -107,9 +107,11 @@ public class ListaNotasActivity extends AppCompatActivity {
                 tiposModos = tiposModos.move();
                 mudarMenuIcon(item);
                 atualizaRecyclerViewManager();
+                break;
             case R.id.menu_lista_feedback:
                 Intent intent = new Intent(this, FeedbackActivity.class);
                 startActivity(intent);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
